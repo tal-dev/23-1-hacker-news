@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  text-align: left;
+}
+
+.card {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+.title {
+  font-weight: bold;
+  font-size: large;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
